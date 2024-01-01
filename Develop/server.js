@@ -1,3 +1,4 @@
+//Import required frameworks
 const express = require('express');
 const path = require('path');
 const api = require('./routes/index');
@@ -12,7 +13,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use('/api', api);
 
-// GET Route for notes
+// GET Route for page where notes are entered
 app.get('/notes', (req, res) =>
   res.sendFile(path.join(__dirname, '/public/notes.html'))
 );

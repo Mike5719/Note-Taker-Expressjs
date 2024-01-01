@@ -12,5 +12,16 @@
         "title": "Is it really working?",
         "text": "??",
         "note_id": "b37b"
+    },
+    {
+        "note_id": "59c0"
+    },
+    {
+        "note_id": "ac68"
+    },
+    {
+        "title": "Testing POST using Insomnia",
+        "text": "Insomnia test",
+        "note_id": "030d"
     }
 ]
