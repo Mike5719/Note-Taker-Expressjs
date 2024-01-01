@@ -23,5 +23,10 @@
         "title": "Testing POST using Insomnia",
         "text": "Insomnia test",
         "note_id": "030d"
+    },
+    {
+        "title": "Testing Acceptance Criteria",
+        "text": "I hope it works!",
+        "note_id": "d9e3"
     }
 ]
