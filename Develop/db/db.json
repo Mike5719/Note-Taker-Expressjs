@@ -1,37 +1,12 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
         "title": "test",
-        "text": "testing",
-        "note_id": "6e35"
+        "text": "test",
+        "id": "404a"
     },
     {
-        "title": "Is it really working?",
-        "text": "??",
-        "note_id": "b37b"
-    },
-    {
-        "note_id": "59c0"
-    },
-    {
-        "note_id": "ac68"
-    },
-    {
-        "title": "Testing POST using Insomnia",
-        "text": "Insomnia test",
-        "note_id": "030d"
-    },
-    {
-        "title": "Testing Acceptance Criteria",
-        "text": "I hope it works!",
-        "note_id": "d9e3"
-    },
-    {
-        "title": "Test again",
-        "text": "test again",
-        "note_id": "60be"
+        "title": "another one",
+        "text": "another one",
+        "id": "6663"
     }
 ]
