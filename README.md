@@ -29,6 +29,7 @@ Usage:
 
 Credits:
 Module 11, activity #26 was used as a guide to complete this challenge as it had similar functionality to the requirements of this assignment.
+Tutor Ashton Foston helped me with getting the note selected in the left hand column to display once clicked on in the right hand column and the "New Note" button displayed in the navigation bar.
 
 
 License:
