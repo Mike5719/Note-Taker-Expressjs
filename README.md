@@ -27,7 +27,7 @@ The user will need to install Express version 4.16.4 to run the application.
 Usage:
 Heroku link: https://obscure-coast-67168-371b45a3912e.herokuapp.com/
 
-![Screenshot of deployed app](<app.png>)
+![Screenshot of deployed app](<./assets/app.png>)
 
 Credits:
 Module 11, activity #26 was used as a guide to complete this challenge as it had similar functionality to the requirements of this assignment.
