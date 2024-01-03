@@ -25,11 +25,13 @@ The user will need to install Express version 4.16.4 to run the application.
 
 
 Usage:
-******************************************include screenshots***************************
+Heroku link: https://obscure-coast-67168-371b45a3912e.herokuapp.com/
+
+![Screenshot of deployed app](<app.png>)
 
 Credits:
 Module 11, activity #26 was used as a guide to complete this challenge as it had similar functionality to the requirements of this assignment.
-Tutor Ashton Foston helped me with getting the note selected in the left hand column to display once clicked on in the right hand column and the "New Note" button displayed in the navigation bar. This was done by ensuring my id variable on line 22 in the notes.js file matched the id variable provided in the starter code in the public/index.js file on line 61.
+Tutor Ashton Foston helped me with getting the note selected in the left hand column to display, when clicked on, in the right hand column and the "New Note" button to display in the navigation bar. This was done by ensuring my id variable on line 22 in the notes.js file matched the id variable provided in the starter code in the public/index.js file on line 61.
 
 
 License:
